@@ -1,0 +1,90 @@
+
+image 1/1 C:\Users\Admin\PycharmProjects\cocoyolo_secondtry\val2017\000000168974.jpg: 640x480 1 person, 1 remote, 2 cell phones, 1 book, 25.0ms
+Speed: 1.0ms preprocess, 25.0ms inference, 2.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 C:\Users\Admin\PycharmProjects\cocoyolo_secondtry\val2017\000000552775.jpg: 640x480 1 person, 2 bottles, 2 spoons, 1 oven, 1 refrigerator, 28.0ms
+Speed: 1.0ms preprocess, 28.0ms inference, 1.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 C:\Users\Admin\PycharmProjects\cocoyolo_secondtry\val2017\000000394940.jpg: 640x448 2 persons, 1 fork, 1 spoon, 1 cake, 1 dining table, 21.0ms
+Speed: 1.0ms preprocess, 21.0ms inference, 1.0ms postprocess per image at shape (1, 3, 640, 448)
+
+image 1/1 C:\Users\Admin\PycharmProjects\cocoyolo_secondtry\val2017\000000015335.jpg: 480x640 6 persons, 1 cup, 1 dining table, 19.0ms
+Speed: 1.0ms preprocess, 19.0ms inference, 0.0ms postprocess per image at shape (1, 3, 480, 640)
+Processed 5000 / 5000 images
+
+Mean Average Precision (mAP) with top-2 classes per box: 0.0099
+AP for class 76: 0.0000
+AP for class 68: 0.0000
+AP for class 42: 0.0000
+AP for class 38: 0.0000
+AP for class 1: 0.6854
+AP for class 46: 0.0000
+AP for class 59: 0.0017
+AP for class 58: 0.0000
+AP for class 71: 0.0000
+AP for class 23: 0.0000
+AP for class 15: 0.0152
+AP for class 25: 0.0000
+AP for class 55: 0.0000
+AP for class 16: 0.0000
+AP for class 19: 0.0000
+AP for class 2: 0.0000
+AP for class 57: 0.0000
+AP for class 0: 0.0000
+AP for class 27: 0.0000
+AP for class 18: 0.0000
+AP for class 13: 0.0000
+AP for class 4: 0.0000
+AP for class 8: 0.0000
+AP for class 26: 0.0000
+AP for class 12: 0.0000
+AP for class 9: 0.0000
+AP for class 14: 0.0000
+AP for class 5: 0.0000
+AP for class 6: 0.0000
+AP for class 61: 0.0000
+AP for class 24: 0.0000
+AP for class 56: 0.0000
+AP for class 7: 0.0000
+AP for class 53: 0.0000
+AP for class 22: 0.0000
+AP for class 36: 0.0000
+AP for class 21: 0.0000
+AP for class 52: 0.0000
+AP for class 32: 0.0000
+AP for class 33: 0.0000
+AP for class 34: 0.0000
+AP for class 62: 0.0000
+AP for class 60: 0.0000
+AP for class 39: 0.0000
+AP for class 54: 0.0000
+AP for class 11: 0.0000
+AP for class 37: 0.0000
+AP for class 44: 0.0000
+AP for class 17: 0.0000
+AP for class 29: 0.0000
+AP for class 30: 0.0000
+AP for class 66: 0.0000
+AP for class 20: 0.0000
+AP for class 64: 0.0000
+AP for class 45: 0.0000
+AP for class 31: 0.0000
+AP for class 35: 0.0000
+AP for class 74: 0.0000
+AP for class 75: 0.0000
+AP for class 3: 0.0000
+AP for class 40: 0.0000
+AP for class 50: 0.0000
+AP for class 51: 0.0000
+AP for class 28: 0.0000
+AP for class 43: 0.0000
+AP for class 41: 0.0000
+AP for class 48: 0.0000
+AP for class 47: 0.0000
+AP for class 78: 0.0000
+AP for class 10: 0.0000
+AP for class 72: 0.0000
+
+Done. Elapsed time: 159.33 sec.
+
+Process finished with exit code 0
