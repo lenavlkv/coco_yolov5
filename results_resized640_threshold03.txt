@@ -1,0 +1,85 @@
+ресайз 640 по самой длинной стороне + порог 0,3
+Class-wise AP:
+person               AP: 0.7317
+bicycle              AP: 0.7089
+car                  AP: 0.6681
+motorcycle           AP: 0.7825
+airplane             AP: 0.9167
+bus                  AP: 0.9149
+train                AP: 0.9068
+truck                AP: 0.6293
+boat                 AP: 0.7122
+traffic light        AP: 0.6450
+fire hydrant         AP: 0.8652
+stop sign            AP: 0.7868
+parking meter        AP: 0.8101
+bench                AP: 0.5744
+bird                 AP: 0.6555
+cat                  AP: 0.8619
+dog                  AP: 0.7808
+horse                AP: 0.8950
+sheep                AP: 0.7704
+cow                  AP: 0.8166
+elephant             AP: 0.8718
+bear                 AP: 0.9281
+zebra                AP: 0.8246
+giraffe              AP: 0.8900
+backpack             AP: 0.4151
+umbrella             AP: 0.8182
+handbag              AP: 0.3886
+tie                  AP: 0.6861
+suitcase             AP: 0.5522
+frisbee              AP: 0.5947
+skis                 AP: 0.7199
+snowboard            AP: 0.6979
+sports ball          AP: 0.7270
+kite                 AP: 0.5364
+baseball bat         AP: 0.7792
+baseball glove       AP: 0.6686
+skateboard           AP: 0.7614
+surfboard            AP: 0.8515
+tennis racket        AP: 0.8736
+bottle               AP: 0.5937
+wine glass           AP: 0.7896
+cup                  AP: 0.5980
+fork                 AP: 0.5954
+knife                AP: 0.5485
+spoon                AP: 0.4340
+bowl                 AP: 0.6030
+banana               AP: 0.5001
+apple                AP: 0.3268
+sandwich             AP: 0.5518
+orange               AP: 0.2981
+broccoli             AP: 0.5690
+carrot               AP: 0.3608
+hot dog              AP: 0.6315
+pizza                AP: 0.7486
+donut                AP: 0.5499
+cake                 AP: 0.6663
+chair                AP: 0.5524
+couch                AP: 0.5610
+potted plant         AP: 0.5270
+bed                  AP: 0.7563
+dining table         AP: 0.5824
+toilet               AP: 0.8478
+tv                   AP: 0.6580
+laptop               AP: 0.7495
+mouse                AP: 0.7144
+remote               AP: 0.5393
+keyboard             AP: 0.6730
+cell phone           AP: 0.5801
+microwave            AP: 0.6856
+oven                 AP: 0.7441
+toaster              AP: 0.4000
+sink                 AP: 0.7266
+refrigerator         AP: 0.7392
+book                 AP: 0.3515
+clock                AP: 0.7777
+vase                 AP: 0.5278
+scissors             AP: 0.4624
+teddy bear           AP: 0.7199
+hair drier           AP: 0.0627
+toothbrush           AP: 0.5911
+
+Final mAP: 0.6614
+Time: 612.23s
